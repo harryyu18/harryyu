@@ -7,5 +7,5 @@
 - Loves trying out new things
 - Loves exploring 
 - Loves football (Kansas City Chiefs)
- ![chiefs](https://github.com/harryyu18/harryyu/assets/159220667/8097d402-cd45-4f66-b4cc-f147060c251d) =250x250
+ ![chiefs](https://github.com/harryyu18/harryyu/assets/159220667/8097d402-cd45-4f66-b4cc-f147060c251d =250x250) 
 
