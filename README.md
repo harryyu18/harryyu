@@ -1,6 +1,6 @@
 # harryyu
 
-- CS Student at IVC 
+- CS Student at IVC <img src='https://pbs.twimg.com/profile_images/1195477694663626752/cXQKoeN6_400x400.jpg' width='25'>
 - Loves working out 
 - Loves traveling 
 - Loves driving 
